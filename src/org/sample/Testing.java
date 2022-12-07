@@ -6,6 +6,10 @@ public class Testing {
 		System.out.println("java");
 		
 		System.out.println("selenium");
+		
+		System.out.println("testng");
+		
+		System.out.println("pom");
 	}
 
 }
